@@ -12,4 +12,4 @@ We use the VS2010 environment to compile the project. The steps are as follows.
 
 * 1 Create solution: Create a blank solution and add the source files. 
 * 2 Configure the solution: __[Solution]__->__[Properties]__->__[Regular]__->__[Configure Type]__->__[.dll]__, and select __[x64]__ & __[Release]__
-* 3 
+* 3 Compile and build the project.
