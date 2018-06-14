@@ -1,0 +1,91 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+
+
+# Project DAC_COM_API  file
+ADC_COM_API/ADC_COM_API.vcxproj
+ADC_COM_API/ADC_COM_API.vcxproj.filters
+ADC_COM_API/ADC_COM_API.vcxproj.user
+ADC_COM_API/Debug
+ADC_COM_API/Release
+ADC_COM_API/x64
+ADC_COM_API/ADC_COM_API.suo
+
+
+# Project DAC_COM_API  file
+DAC_COM_API/DAC_COM_API.vcxproj
+DAC_COM_API/DAC_COM_API.vcxproj.filters
+DAC_COM_API/DAC_COM_API.vcxproj.user
+DAC_COM_API/Debug
+DAC_COM_API/Release
+DAC_COM_API/x64
+DAC_COM_API/DAC_COM_API.suo
+
+# Solution compile file
+Debug
+Release
+
+# Temporary file for solution
+SQC_ADDA_COM_API.opensdf
+
+# Solution user option
+SQC_ADDA_COM_API.suo
+
+# Solution Binary files
+x64
+
+# Solution Precompile files
+ipch
+
+# Code browser database
+SQC_ADDA_COM_API.sdf
+
+# Solution configure files
+SQC_ADDA_COM_API.sln
