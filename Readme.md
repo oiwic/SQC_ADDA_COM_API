@@ -6,7 +6,7 @@ __1. Operating Environment__
 This project is used to provide an efficient communication interface for self-developed digitizers and AWGs. The project relies on 
 [WinpCap](https://www.winpcap.org/). You should ensure that your computer has WinPcap installed before calling the DLL.
 
-__2. Compile Step__
+__2. Compile Steps__
 
 We use the VS2010 environment to compile the project. The steps are shown as follows.
 
