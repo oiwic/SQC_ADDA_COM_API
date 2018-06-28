@@ -8,7 +8,7 @@ This project is used to provide an efficient communication interface for self-de
 
 __2. Compile Step__
 
-We use the VS2010 environment to compile the project. The steps are as follows.
+We use the VS2010 environment to compile the project. The steps are shown as follows.
 
 * 1 Create solution: Create a blank solution and add the source files. 
 * 2 Configure the solution: __[Solution]__->__[Properties]__->__[Regular]__->__[Configure Type]__->__[.dll]__
